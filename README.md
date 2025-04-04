@@ -4,9 +4,9 @@
 **AryanSingh2006/AryanSingh2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 -->
 
-- 🌱 I’m currently learning **Backend Development for Web**  
-- 🔥 Exploring the **MERN Stack** and experimenting with new ideas  
-- 🎮 I started coding to build games, but now I’m crafting backend magic  
+- 🌱 I’m currently diving deep into Backend Development and mastering the **MERN Stack**
+- 🔥 Exploring **React** and **Express.js**, while experimenting with new ideas  
+- 🎮  I started coding to build games, but now I’m just pressing random keys and hoping for the best 🤞 
 - ⚡ Fun fact: I love breaking things just to see how they work (and then fixing them in unexpected ways)  
 - 💡 Always up for learning, building, and debugging at 3 AM 🚀  
 
