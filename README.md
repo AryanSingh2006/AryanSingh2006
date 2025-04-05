@@ -1,4 +1,4 @@
-## Hi Im Aryan Rand 👋  
+##  Aryan and natasha together ❤️ 👋  
 
 <!--  
 **AryanSingh2006/AryanSingh2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
