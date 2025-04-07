@@ -1,7 +1,7 @@
-##  Aryan and natasha together ❤️ 👋  
+## Hi there 👋  
 
 <!--  
-**AryanSingh2006/AryanSingh2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+**AryanSingh2006/AryanSingh2006** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.  
 -->
 
 - 🌱 I’m currently diving deep into Backend Development and mastering the **MERN Stack**
