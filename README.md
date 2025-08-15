@@ -4,8 +4,8 @@
 **AryanSingh2006/AryanSingh2006** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.  
 -->
 
-- 🌱 Currently diving deep into Backend & Blockchain Development, aiming for full-stack mastery  
-- 🔥 Building DApps with Solidity, Hardhat, and Express.js — while experimenting with AI & web tech  
+- 🌱 Currently diving deep into **Backend** & **Blockchain Development**, aiming for **Full-Stack** mastery  
+- 🔥 Building DApps with **Solidity**, **Hardhat**, and **Express.js** — while experimenting with AI & web tech  
 - 🎯 Preparing for hackathons, turning caffeine into code (and bugs into “features”)  
 - 🎮 Started coding for games, I’m just pressing random keys and hoping for the best 
 - ⚡ Fun fact: I love breaking things to see how they work… and sometimes they work better after  
