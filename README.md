@@ -7,7 +7,7 @@
 - 🌱 Currently diving deep into Backend & Blockchain Development, aiming for full-stack mastery  
 - 🔥 Building DApps with Solidity, Hardhat, and Express.js — while experimenting with AI & web tech  
 - 🎯 Preparing for hackathons, turning caffeine into code (and bugs into “features”)  
-- 🎮 Started coding for games, now exploring everything from APIs to smart contracts  
+- 🎮 Started coding for games, I’m just pressing random keys and hoping for the best 
 - ⚡ Fun fact: I love breaking things to see how they work… and sometimes they work better after  
 - 💡 Always learning, building, and debugging at unholy hours 🚀
 
