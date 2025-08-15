@@ -9,7 +9,7 @@
 - 🎯 Preparing for hackathons, turning caffeine into code (and bugs into “features”)  
 - 🎮 Started coding for games, I’m just pressing random keys and hoping for the best 
 - ⚡ Fun fact: I love breaking things to see how they work… and sometimes they work better after  
-- 💡 Always learning, building, and debugging at unholy hours 🚀
+- 💡 Always up for learning, building, and debugging at 3 AM
 
 ## 💻 Tech Stack
 
