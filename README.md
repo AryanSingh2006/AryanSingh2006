@@ -5,7 +5,7 @@
 -->
 
 - 🌱 Currently mastering **Full-Stack Development** and exploring **Blockchain technologies**.  
-- 🔥 Building DApps with **Solidity**, **Hardhat**, and **Express.js** — while experimenting with AI & web tech  
+- 🔥 Building DApps with **Solidity**, **Hardhat**, and **Express.js** — while experimenting with AI 
 - 🎮 Started coding for games, I’m just pressing random keys and hoping for the best 
 - ⚡ Fun fact: I love breaking things to see how they work… and sometimes they work better after  
 - 💡 Always up for learning, building, and debugging at 3 AM
