@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 <!--  
-**AryanSingh2006/AryanSingh2006** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.  
+**AryanSingh2006/AryanSingh2006** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile. ..
 -->
 
 - 🌱 Currently mastering **Full-Stack Development** and exploring **Blockchain technologies**.  
